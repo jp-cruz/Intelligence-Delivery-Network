@@ -1,7 +1,8 @@
-                    GNU AFFERO GENERAL PUBLIC LICENSE
+GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
-                  Copyright (C) 2026 John Paul "Jp" Cruz
 
+                  Copyright (C) 2026 John Paul "Jp" Cruz
+                  https://github.com/jp-cruz/Intelligence-Delivery-Network
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
@@ -253,8 +254,8 @@ in one of these ways:
     product that is covered by this License, on a durable physical
     medium customarily used for software interchange, for a price no
     more than your reasonable cost of physically performing this
-    conveying of source, or (2) access to copy the
-    Corresponding Source from a network server at no charge.
+    conveying of source, or (2) access to copy the Corresponding
+    Source from a network server at no charge.
 
     c) Convey individual copies of the object code with a copy of the
     written offer to provide the Corresponding Source.  This
@@ -525,7 +526,7 @@ or that patent license was granted, prior to 28 March 2007.
 
   Nothing in this License shall be construed as excluding or limiting
 any implied license or other defenses to infringement that may
-otherwise be available to you under applicable patent law.
+otherwise be available to you under applicable law.
 
   12. No Surrender of Others' Freedom.
 
@@ -533,11 +534,12 @@ otherwise be available to you under applicable patent law.
 otherwise) that contradict the conditions of this License, they do not
 excuse you from the conditions of this License.  If you cannot convey a
 covered work so as to satisfy simultaneously your obligations under this
-License and any other pertinent obligations, then as a consequence you may
-not convey it at all.  For example, if you agree to terms that obligate you
-to collect a royalty for further conveying from those to whom you convey
-the Program, the only way you could satisfy both those terms and this
-License would be to refrain entirely from conveying the Program.
+License and any other pertinent obligations, then as a consequence you
+may not convey it at all.  For example, if you agree to terms that
+obligate you to collect a royalty for further conveying from those to
+whom you convey the Program, the only way you could satisfy both those
+terms and this License would be to refrain entirely from conveying the
+Program.
 
   13. Remote Network Interaction; Use with the GNU General Public License.
 
@@ -632,7 +634,7 @@ state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
     <one line to give the program's name and a brief idea of what it does.>
-    Copyright (C) <year>  <name of author>
+    Copyright (C) 2026  John Paul "Jp" Cruz
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as published
@@ -662,33 +664,58 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU AGPL, see
 <https://www.gnu.org/licenses/>.
 
-───────────────────────────────────────────────
-ADDITIONAL TERMS — Section 7 of the GNU AGPL v3
-───────────────────────────────────────────────
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ADDITIONAL TERMS — Pursuant to Section 7 of the GNU AGPL v3
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-The following additional terms apply to this software and all
-derivative works, pursuant to Section 7 of the GNU Affero General
-Public License v3:
+The following additional terms apply to this software and all derivative
+works, pursuant to Section 7 of the GNU Affero General Public License v3.
+These terms are legally binding on all recipients of this software.
 
-1. ATTRIBUTION REQUIREMENT
+1. ATTRIBUTION REQUIREMENT (Section 7(b))
+
    All copies, modifications, or derivative works of this software,
-   whether distributed in source or object form, must prominently
-   display the following attribution in documentation, user interfaces,
-   and any "About" or credits screens:
+   whether distributed in source or object form, must prominently display
+   the following attribution in ALL of the following locations where
+   applicable:
+
+     (a) The top-level README or equivalent primary documentation file;
+     (b) Any user-facing "About", "Credits", or "License" screen or page;
+     (c) The header comment of any source file that substantially derives
+         from this software.
+
+   Required attribution text:
 
        "Based on the Intelligence Delivery Network (IDN)
-        by JP Cruz — https://github.com/jp-cruz/Intelligence-Delivery-Network"
+        by John Paul Cruz — https://github.com/jp-cruz/Intelligence-Delivery-Network"
 
-2. NO MISREPRESENTATION OF ORIGIN
-   You may not misrepresent the origin of this software. Modified
-   versions must be clearly marked as such and must not be represented
-   as the original IDN software.
+   This requirement applies to all forms of distribution, including but
+   not limited to: open-source forks, commercial products, SaaS platforms,
+   hosted APIs, and internal enterprise deployments.
 
-3. RETENTION OF NOTICES
+2. NO MISREPRESENTATION OF ORIGIN (Section 7(c))
+
+   You may not misrepresent the origin of this software. Modified versions
+   must be clearly marked as such and must not be represented as the
+   original Intelligence Delivery Network (IDN) software. Any modified
+   version must include a prominent notice stating:
+
+       "This is a modified version of the Intelligence Delivery Network (IDN)
+        originally created by John Paul Cruz."
+
+3. RETENTION OF NOTICES (Section 7(b))
+
    You may not remove or alter any copyright notices, attribution
    statements, or references to the original author contained in the
-   source code or documentation.
+   source code, documentation, or any other part of this software.
+   This includes but is not limited to notices in:
 
-These additional terms are permitted under Section 7 of the GNU AGPL
-v3 and are legally binding on all recipients of this software.
+     (a) Source file headers;
+     (b) Documentation files (README, CHANGELOG, CONTRIBUTING, etc.);
+     (c) Generated output, logs, or user interfaces that reference
+         the software's origin.
 
+These additional terms are permitted under Section 7 of the GNU Affero
+General Public License v3. They supplement but do not restrict the rights
+granted by the AGPL v3. All other rights and obligations under the AGPL v3
+remain in full force and effect.
