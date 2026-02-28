@@ -661,3 +661,34 @@ specific requirements.
 if any, to sign a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU AGPL, see
 <https://www.gnu.org/licenses/>.
+
+───────────────────────────────────────────────
+ADDITIONAL TERMS — Section 7 of the GNU AGPL v3
+───────────────────────────────────────────────
+
+The following additional terms apply to this software and all
+derivative works, pursuant to Section 7 of the GNU Affero General
+Public License v3:
+
+1. ATTRIBUTION REQUIREMENT
+   All copies, modifications, or derivative works of this software,
+   whether distributed in source or object form, must prominently
+   display the following attribution in documentation, user interfaces,
+   and any "About" or credits screens:
+
+       "Based on the Intelligence Delivery Network (IDN)
+        by JP Cruz — https://github.com/jp-cruz/Intelligence-Delivery-Network"
+
+2. NO MISREPRESENTATION OF ORIGIN
+   You may not misrepresent the origin of this software. Modified
+   versions must be clearly marked as such and must not be represented
+   as the original IDN software.
+
+3. RETENTION OF NOTICES
+   You may not remove or alter any copyright notices, attribution
+   statements, or references to the original author contained in the
+   source code or documentation.
+
+These additional terms are permitted under Section 7 of the GNU AGPL
+v3 and are legally binding on all recipients of this software.
+
